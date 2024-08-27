@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hello there! i am Rohit
 
-<!--
-**cloud-1997/cloud-1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate DevOps Engineer
 
-Here are some ideas to get you started:
+🔧 What I Do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Infrastructure as Code (IaC) | Terraform, CloudFormation CI/CD Pipelines | Jenkins, GitHub Actions, Cloud Services | AWS, GCP Containerization | Docker, Kubernetes Monitoring & Logging | Prometheus, Grafana, ELK Stack Automation & Scripting | Bash, Python, PowerShell
+
+🌟 Current Focus:
+
+Scaling cloud infrastructures for high availability and resilience. Experimenting with new tools and technologies to improve DevOps processes.
+
+📚 Always Learning:
+
+DevSecOps Practices 🛡️ Serverless Architecture ☁️ Advanced Kubernetes Management 🌀
+
+Let's Connect:
+
+LinkedIn: https://www.linkedin.com/in/b-rohit-369807315
